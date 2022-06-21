@@ -14,5 +14,6 @@ Tabla de Contenido | Table of Contents
 | ESP & ENG | ESP | ENG | 
 | ------------- | ------------- |------------- |
 | Referentes  | Canales Informativos y de educacion de referentes como tambien sus redes  | Informative and educational referral channels as well as their networks  |
-| Contenido de la celda  | Contenido de la celda  | Contenido de la celda  |
+|Paginas & Blogs	|Contenido hecho por referentes |Content made by referents |
+
 
