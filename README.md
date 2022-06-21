@@ -11,7 +11,7 @@ Si crees que este repositorio te fue útil, dale una estrella (Star) ★ .
 
 Tabla de Contenido | Table of Contents
 
-| Primer encabezado | Segundo encabezado || Primer encabezado | 
+| Primer encabezado | Segundo encabezado | Primer encabezado | 
 | ------------- | ------------- |------------- |
 | Contenido de la celda  | Contenido de la celda  | Contenido de la celda  |
 | Contenido de la celda  | Contenido de la celda  | Contenido de la celda  |
