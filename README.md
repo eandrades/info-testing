@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/74476957/174898633-475b7d47-9d37-4815-9214-9a2a01251fad.png)
+
+
 # info-testing
 El objetivo principal de este repositorio es compartir el material para la investigacion y aprendizaje, se va a ir actualizando a medida que se encuentre más informacion y/o quieran aportar respectivamente. El material se divide en ESP (Español) y ENG. (English)
 
